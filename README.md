@@ -6,7 +6,7 @@
 4. Тестовые запросы можно совершать с помощью curl (curl http://localhost:port/ -X POST -d "username=user&user_phone=8 928 022 44 55")
 
 Файл tests.py совершает тестовые запросы и проверяет корректность выходных данных.
-Запуск python tests.py.
+Запуск python tests.py -v.
 
 
 
